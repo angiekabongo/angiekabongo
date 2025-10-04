@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Angie!
-- 🧠 A current Neuroscience student and aspiring Software Engineer.
+- 🧠 A current Neuroscience BSc student and aspiring Software Engineer.
 - 🧬 Currently wrestling with Big Data & Genomics app turning messy genomic data into meaningful
      insights!
 - 🐍 Learning Python, HTML & CSS through hands-on projects.
