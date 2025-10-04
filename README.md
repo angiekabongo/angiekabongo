@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Angie!
+# 👋 Hello, I'm Angie!
 - 🧠 A current Neuroscience student and aspiring Software Engineer.
 - 🧬 Currently wrestling with Big Data & Genomics app turning messy genomic data into meaningful
      insights!
